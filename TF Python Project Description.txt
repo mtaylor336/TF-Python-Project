@@ -1,0 +1,14 @@
+﻿Hello! Welcome to my Python program.
+
+
+This project is a Dice Rolling Simulation game for two players using three 20-sided (similar to tabletop role playing game) dice.
+
+The purpose of the game is to have the highest total sum from the dice, and the game returns a  for resulting sum for both Player 1 and Player 2, and then determines a winner.
+
+I tried to set up the game to loop and repeat, but could not come up with a suitable code for that myself, and code I saw elsewhere was not a good match for my usage. 
+
+All of the code contained within is my own, although I got the idea for the project from https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/, and reviewed how to generate random numbers by looking at this site: http://copitosystem.com/python-dice-simulator/
+
+If there are any questions or concerns about the program, please contact me directly.
+
+Apologies for the delay Keyla and Mike, and I hope you both have a great weekend!
